@@ -1,5 +1,5 @@
 # Overview
-git : https://github.com/thriblueblood/kmitl-esd-exercise2-61090038-Thirayut.git
+git : https://github.com/thriblueblood/kmitl-esd-exercise3-61090038-Thirayut.git
 This project covers the excercise 3 (Client, Server, Model, Customer Service) for KMITL ESD - lecture 6-9:
 a) REST services: Create a customer and a quotation API (spring controllers) that support CRUD operations for customers and quotations
 b) Business Logic: create customer and a quotation business logic classes (spring services) that support CRUD operations. The quotation creation must validate a customer (must exist).
