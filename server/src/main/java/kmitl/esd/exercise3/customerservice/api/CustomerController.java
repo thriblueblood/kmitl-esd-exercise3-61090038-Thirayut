@@ -58,5 +58,6 @@ public class CustomerController {
     @DeleteMapping("/{id}")
     public Boolean deleteCustomer(@PathVariable("id") Long customerId){
    return CustomerService.SINGLE_INSTANCE.delete(customerId);
+//        return 0;
     }
 }
